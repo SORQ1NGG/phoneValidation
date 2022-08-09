@@ -1,0 +1,1 @@
+import { combineReducers } from '@reduxjs/toolkit'import { phones } from './phone'import { visibilityFilter } from './visibilityFilter'export default combineReducers({    phones,    visibilityFilter})

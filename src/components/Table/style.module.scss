@@ -1,0 +1,1 @@
+ul {  list-style-type: circle;}.tableSection {  max-width: 200px;  width: 100%;  border: 1px solid #b4b4b4;  &Text {    margin: 0;    padding: 10px 0 10px 15px;    border-bottom: 1px solid #b4b4b4;  }  &Text:last-child {    border-bottom: none;  }}
