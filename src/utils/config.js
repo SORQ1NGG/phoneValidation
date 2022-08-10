@@ -1,1 +1,1 @@
-export const config = [    {code:7, country:'Russia', flag: 'telephon__select_ru'},    {code:44, country:'United Kingdom', flag: 'telephon__select_uk'},    {code:1, country:'United States', flag: 'telephon__select_us'},]
+export const config = [    {code:7, country:'Russia'},    {code:44, country:'United Kingdom'},    {code:1, country:'United States'},]
