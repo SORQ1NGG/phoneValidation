@@ -1,1 +1,1 @@
-import { combineReducers } from '@reduxjs/toolkit'import { phones } from './phone'import { visibilityFilter } from './visibilityFilter'export default combineReducers({    phones,    visibilityFilter})
+import { combineReducers } from '@reduxjs/toolkit'import { phones } from './phones'import { visibilityFilter } from './visibilityFilter'export default combineReducers({    phones,    visibilityFilter})

@@ -1,11 +1,11 @@
 import React from 'react';
-import Form from './components/Form/Form'
-import VisibleTelephoneList from './containers/Table'
+import FormComponent from './components/FormComponent/FormComponent'
+import VisibleTelephoneList from './containers/TableTelephones'
 
 function App() {
   return (
       <div style={{ display: 'flex', justifyContent: 'space-around', alignItems: 'center', marginTop: '100px' }}>
-        <Form />
+        <FormComponent />
         <VisibleTelephoneList />
       </div>
   );
